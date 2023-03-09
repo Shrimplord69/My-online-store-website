@@ -1,1 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"> 
+    <title> My Personal Website</title>
+</head>    
 
+<body>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/RMIT_University_Logo.svg" width="150" alt="RMIT RMIT_University_Logo"></br>
+
+<img src="175056064355_9155552037166547739_n-modified.png" alt="me pic"></html></br>
+
+<h1>Mr.B</h1></br>
+
+<p>Student of <strong>RMIT Vietnam.</strong></p></br>
+
+<p>Hi everyone 👋! My dream is to create an Holographic Ai just like the one in "Blade Runner 2049".</p></br>
+<hr>
+<h2>My description</h2>
+<p>My full name is Nguyen Gia Bao, this is my second year as RMIT student. My major is Information and Technology, I'm a little bit focus on the AI filed. </p></br>
+
+<h2>Hobbies</h2>
+<ul>
+    <li>Ping Pong 🏓</li>
+    <li>Video Game 🎮</li>
+    <li>Learning New Things 🤓☝️</li>
+    <li>Domestic Terrorism 💣💥</li>
+</ul>
+
+<h2>My Favourite Languages/Framework 💻</h2>
+<ol>
+    <li>Human Language 🧍‍♂️</li>
+    <li>Python 🐍</li>
+    <li>Java ☕ </li>
+</ol>
+
+<h2>Connect with me 🤝</h2>
+<ul>
+    <li></li>
+</ul>
+
+</body>
+</html>
